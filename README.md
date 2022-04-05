@@ -1,2 +1,2 @@
 # data-structures
-Implentations of data structures in C++.
+Implementations of data structures in C++.
